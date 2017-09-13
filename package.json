@@ -1,5 +1,5 @@
 {
-  "name": "egg-view-art",
+  "name": "egg-view-atpl",
   "version": "1.0.0",
   "description": "art-template view for egg.js",
   "eggPlugin": {
@@ -54,6 +54,10 @@
     "url": "https://github.com/1021683053/egg-view-art/issues"
   },
   "homepage": "https://github.com/1021683053/egg-view-art#readme",
-  "author": "Liweifeng",
-  "license": "MIT"
+  "author": "nanjixiong218",
+  "license": "MIT",
+  "main": ".autod.conf.js",
+  "directories": {
+    "test": "test"
+  }
 }
